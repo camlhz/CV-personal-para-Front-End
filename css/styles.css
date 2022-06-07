@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(1, 1, 52);
+    color:aliceblue;
+}
+
+img {
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+}
+
+.italica {
+    font-style: italic;
+}
+
+h1 {
+    background-image: url("../img/galaxia.jpg");
+    background-size: cover;
+    color: white;
+}
+
+span {
+    font-weight: bold;
+}
+
+h2 {
+    color:rgb(180,70,0);
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+}
+
+.fa-brands {
+    color: #FFFF;
+}
